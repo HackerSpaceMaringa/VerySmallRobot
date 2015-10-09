@@ -1,0 +1,9 @@
+Debug/
+*.ppt
+*.odt
+*.txt
+
+.cdtproject
+.cproject
+.settings
+.project
